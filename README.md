@@ -14,7 +14,6 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p>Here are the things I love to do the most : </p> 
 <ul>
 <li>hockey</li>
-<a href="http://www.trailadventours.com/philippine-mountains/mt-pulag">hockey</a>
 <li>Travelling and Exploring Places</li>
 <li>Reading comics</li>
 </ul>
