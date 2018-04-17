@@ -19,4 +19,5 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <li>Reading comics</li>
 </ul>
 </body>
+ <link rel="stylesheet" href="/style.css" />
 </html>
