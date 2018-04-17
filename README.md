@@ -5,7 +5,7 @@ My personal Portfolio Website
 <body>
 <h1> All About Me</h1>
 <title> This is my website </title>
-<img src="https://www.google.com.sg/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb4%2FArgentin_player_during_2007_rink_hockey_world_championship.jpg%2F220px-Argentin_player_during_2007_rink_hockey_world_championship.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHockey&docid=ZtaoI7r_ipj_kM&tbnid=vH0QXvYn8iipLM%3A&vet=10ahUKEwjqzf3Um53aAhXBQY8KHY92CXkQMwjUASgAMAA..i&w=220&h=165&bih=662&biw=1366&q=hockey&ved=0ahUKEwjqzf3Um53aAhXBQY8KHY92CXkQMwjUASgAMAA&iact=mrc&uact=8"/>
+<img src=""/>
 <p>
 My name is Lee Xiang Ling.I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
